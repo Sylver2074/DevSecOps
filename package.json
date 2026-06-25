@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
-    "test": "jest --runInBand --forceExit --reporters=default --reporters=jest-junit"
+    "test": "jest --runInBand --forceExit"
   },
   "dependencies": {
     "express": "^4.19.2"
